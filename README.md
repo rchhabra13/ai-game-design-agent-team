@@ -39,8 +39,8 @@ A sophisticated multi-agent system that collaboratively designs, develops, and i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/ai_game_design_agent_team
+   git clone https://github.com/rchhabra13/ai_game_design_agent_team.git
+   cd ai_game_design_agent_team
    ```
 
 2. **Install dependencies**
